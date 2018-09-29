@@ -1,1 +1,3 @@
-data_aug
+./data_aug
+./*.model
+./data
